@@ -1,0 +1,12 @@
+p {
+	font: 13px/20px Times New Roman;
+}
+p {
+    font: 300/40 Arial;
+    color: red;
+    font-weight: bold;
+}
+p {
+	text-indent: 50px;
+    font: italic 40/60
+}
