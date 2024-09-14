@@ -10,3 +10,8 @@ p {
 	text-indent: 50px;
     font: italic 40/60
 }
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
