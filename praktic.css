@@ -22,3 +22,22 @@ p{
 ul{
     width: 500px;
 }
+i {
+	color: red;
+}
+b{
+    color: blue;
+}
+ul {
+	color: rgb(255, 0, 204);
+}
+i {
+	font-size: 30px;
+}
+ul {
+	font-size: 20px;
+}
+li {
+	color: red;
+	font-weight: bold;
+}
