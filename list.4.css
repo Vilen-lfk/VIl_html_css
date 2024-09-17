@@ -1,9 +1,21 @@
 ul li i{
-    color: red;
+    color: black;
 }
 p i{
     color: green;
 }
 p b i{
     color: blue;
+}
+li > b{
+    color: red;
+}
+.odd{
+    color: red;
+}
+.eve{
+    color: green;
+}
+.eee{
+    color: red;
 }
