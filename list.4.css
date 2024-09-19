@@ -59,3 +59,12 @@ h3.header{
 .eye i{
     color:crimson;
 }
+p.bbb {
+	color: red;
+}
+p .bbb {
+	color: yellowgreen;
+}
+.iii p.bbb {
+	color: red;
+}
