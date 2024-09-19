@@ -47,3 +47,15 @@ li > b{
     line-height: 1.5;
     font-family: Arial;
 }
+.header {
+	color: red;
+}
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+.eye i{
+    color:crimson;
+}
