@@ -19,3 +19,31 @@ li > b{
 .eee{
     color: red;
 }
+.xxx{
+    font-size: 30px;
+}
+.qqq{
+    color: red;
+}
+.ttt{
+    color: green;
+}
+.uuu{
+    color: blue;
+}
+.cvc{
+    color: red;
+}
+.vcv{
+    color: green;
+}
+.eee {
+	font-size: 20px;
+}
+.xxx {
+	font-size: 30px;
+}
+.eee, .xxx{
+    line-height: 1.5;
+    font-family: Arial;
+}
