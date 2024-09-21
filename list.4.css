@@ -98,3 +98,6 @@ p .bbb {
 .text{
     font-size: 25px;
 }
+#elem li.text{
+    color:aquamarine;
+}
