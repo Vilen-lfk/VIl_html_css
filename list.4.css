@@ -68,3 +68,33 @@ p .bbb {
 .iii p.bbb {
 	color: red;
 }
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.eng, .rus, .tat{
+    color:blueviolet;
+}
+#elem1{
+    color: red;
+}
+#elem2{
+    color:green;
+}
+#elem3{
+    color:blue;
+}
+#block{
+    font-size: 35px;
+}
+.text{
+    font-size: 25px;
+}
