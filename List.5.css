@@ -44,3 +44,9 @@
 .elem + li{
     color:deeppink;
 }
+#elem1 ~ li{
+    font-style: italic;
+}
+main *{
+    color: red;
+}
