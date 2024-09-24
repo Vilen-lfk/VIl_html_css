@@ -49,4 +49,44 @@ a:hover {
 	color: red;
     text-decoration: none;
 }
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
+.qaq li:first-child{
+    color: red;
+}
+.qwq li:last-child{
+    color: green;
+}
+.qtq li:nth-child(3){
+    color: red;
+}
+.qpq li:nth-child(odd){
+    color: red;
+}
+.qpq li:nth-child(even){
+    color: green;
+}
+.qyq li:nth-last-child(2){
+    color: red;
+}
+.qoq li:only-child{
+    color: red;
+}
+.kk li:not(.elem) {
+	color: green;
+}
+li:not(:first-child){
+    color: red;
+}
+.uyu li:not(:first-child, :last-child){
+    color: blue
+}
+
+
+
+
 
