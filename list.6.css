@@ -1,0 +1,15 @@
+#elem {
+	width: 300px;
+	height: 100px;
+	color: white;
+	background-color: orange; /* задаем 
+		оранжевый цвет фона */ 
+}
+#vvv{
+    width: 300px;
+	height: 150px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(0, 255, 140);
+}
