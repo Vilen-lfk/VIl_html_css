@@ -13,3 +13,13 @@
     text-align: center;
     background-color: rgb(0, 255, 140);
 }
+#elem1 {
+	border-width: 3px;    /* толщина 
+		3px */ 
+	border-style: solid;  /* в виде 
+		линии */ 
+	border-color: red;    /* красный 
+		цвет */ 
+	width: 300px;
+	height: 100px;
+}
