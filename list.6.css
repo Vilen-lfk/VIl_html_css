@@ -58,3 +58,23 @@
 	width: 250px;
 	height: 150px;
 }
+#vil1 {
+	border: 1px solid red;
+	width: 300px;
+	height: 200px;
+}
+#vil2 {
+	border: 2px dotted blue;
+	width: 300px;
+	height: 200px;
+}
+#vil3 {
+	border: 3px dashed green;
+	width: 300px;
+	height: 200px;
+}
+#vil4 {
+    border: 6px double orange;
+	width: 300px;
+	height: 200px;
+}
