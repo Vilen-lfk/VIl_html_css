@@ -124,3 +124,9 @@
 	border: 1px solid green;
 	border-radius: 10px 30px;
 }
+#ggg7 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 30px 20px;
+}
