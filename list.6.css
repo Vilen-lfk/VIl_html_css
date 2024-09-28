@@ -130,3 +130,9 @@
 	border: 1px solid green;
 	border-radius: 10px 30px 20px;
 }
+#ggg8 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+	border-radius: 10%;
+}
