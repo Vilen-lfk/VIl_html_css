@@ -18,3 +18,12 @@
 	height: 600px;
 	border: 1px solid black;
 }
+#ooo3{
+	background-size: auto;
+	background-position: 30px 50px;
+	background-image: url("img/bg.png");
+	background-repeat: no-repeat;
+	width: 600px;
+	height: 600px;
+	border: 1px solid black;
+}
