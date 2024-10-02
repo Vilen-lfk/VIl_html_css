@@ -45,3 +45,9 @@
 #ooo9 ol{
 	list-style-type: lower-alpha;
 }
+#zzz1 ol{
+	list-style-type: upper-alpha;
+}
+#zzz2 ol{
+	list-style-type: lower-greek;
+}
