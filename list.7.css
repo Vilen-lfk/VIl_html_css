@@ -39,3 +39,9 @@
 #ooo7 ol{
 	list-style-type: lower-roman;
 }
+#ooo8 ol{
+	list-style-type: upper-roman;
+}
+#ooo9 ol{
+	list-style-type: lower-alpha;
+}
