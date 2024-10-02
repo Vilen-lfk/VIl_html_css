@@ -36,3 +36,6 @@
 #ooo6 ul{
 	list-style-type: none;
 }
+#ooo7 ol{
+	list-style-type: lower-roman;
+}
