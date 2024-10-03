@@ -140,3 +140,13 @@
 	border: 1px dashed blue;
 	margin: 25px 20px 30px 10px;
 }
+#meli1{
+	width: 220px;
+	height: 290px;
+	border: 1px solid orange;
+}
+#meli2{
+	height: 60px;
+	border: 1px dashed blue;
+	margin: 110px 50px;
+}
