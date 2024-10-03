@@ -84,3 +84,48 @@
 	border: 1px solid red;
 	margin: 50px;
 }
+#parent2 {
+	width: 200px;
+	height: 300px;
+	border: 1px solid red;
+}
+#child2 {
+	margin-top:    50px; /* сверху */
+	margin-right:  35px; /* справа */
+	margin-bottom: 30px; /* снизу */
+	margin-left:   35px; /* слева */
+	
+	width: 120px;
+	height: 120px;
+	border: 1px solid green;
+}
+#parent3 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+}
+#child3 {
+	margin-top:    40px; /* сверху */
+	margin-right:  50px; /* справа */
+	margin-bottom: 30px; /* снизу */
+	margin-left:   23px; /* слева */
+	
+	width: 150px;
+	height: 115px;
+	border: 1px solid green;
+}
+#vilen2 {
+	width: 200px;
+	height: 150px;
+	border: 1px solid red;
+}
+#vilen3 {
+	margin-top:    25px; /* сверху */
+	margin-right:  65px; /* справа */
+	margin-bottom: 30px; /* снизу */
+	margin-left:   65px; /* слева */
+	
+	width: 60px;
+	height: 100px;
+	border: 1px solid green;
+}
