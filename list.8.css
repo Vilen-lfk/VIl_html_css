@@ -23,3 +23,31 @@
 	border: 1px solid red;
 	text-align: justify;
 }
+#ele3 {
+	padding: 10px 20px 40px 40px;
+	/*padding-top:    50px; сверху
+	padding-right:  30px;  справа 
+	padding-bottom: 30px;  снизу 
+	padding-left:   40px;  слева */
+	
+	width: 300px;
+	height: 150px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#ele4 {
+	padding: 60px 20px;
+	
+	width: 300px;
+	height: 150px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#ele5 {
+	padding: 10px 20px 50px;
+
+	width: 300px;
+	height: 150px;
+	border: 1px solid red;
+	text-align: justify;
+}
