@@ -12,3 +12,14 @@
 	border: 1px solid green;
 	text-align: justify;
 }
+#ele2 {
+	padding-top:    50px; /* сверху */
+	padding-right:  30px; /* справа */
+	padding-bottom: 30px; /* снизу */
+	padding-left:   40px; /* слева */
+	
+	width: 200px;
+	height: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
