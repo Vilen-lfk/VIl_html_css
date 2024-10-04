@@ -64,3 +64,32 @@
 	height: 100px;
 	background: #f1f1f1;
 }
+#sms {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	margin-bottom: 20px;
+}
+
+#sms1 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	border: 10px solid green;  /* задаем 
+		границу */ 
+}
+#sms2{
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	margin-bottom: 20px;
+}
+
+#sms3 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	padding: 25px; /* задаем отступы */
+	border: 10px solid green;  /* задаем 
+		границу */ 
+}
