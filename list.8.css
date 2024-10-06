@@ -115,3 +115,7 @@
 	height: 100px;
 	border: 1px solid red;
 }
+#cla1 div{
+	height: 100px;
+	border: 1px dotted blue;
+}
