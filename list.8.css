@@ -110,3 +110,8 @@
 	box-sizing: border-box;  /* убираем 
 		расширение */ 
 }
+#cla div {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
