@@ -133,8 +133,11 @@
 	margin-bottom: 20px;
 	border: 1px solid red;
 }
-#cla5 div{
+#cla5 span{
 	width: 100px;
 	height: 100px;
 	border: 1px solid red;
+}
+#cla6 span{
+	border: 1px solid rgba(0, 34, 255, 0.512);
 }
