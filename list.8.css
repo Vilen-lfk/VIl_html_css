@@ -121,5 +121,9 @@
 }
 #cla2 div{
 	width: 100px;
-	border: 1px dashed rgb(208, 0, 255)
+	border: 1px dashed rgb(208, 0, 255);
+}
+#cla3 div{
+	width: 100px;
+	border: 1px solid rgb(0, 255, 157)
 }
