@@ -127,3 +127,9 @@
 	width: 100px;
 	border: 1px solid rgb(0, 255, 157)
 }
+#cla4 div{
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	border: 1px solid red;
+}
