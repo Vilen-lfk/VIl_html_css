@@ -43,3 +43,26 @@
 	border: 1px solid green;
 	margin: 10px auto;
 }
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child {
+	margin-left: auto; /* задаем 
+		автоматический левый отступ */ 
+	height: 100px;
+	width: 200px;
+	border: 1px solid green;
+}
+#nnn1 {
+	padding: 10px 0;
+	border: 1px solid blue;
+}
+#nnn2 {
+	margin-left: auto;
+	margin-right: 20px; /* задаем 
+		правый отступ */ 
+	height: 100px;
+	width: 200px;
+	border: 1px solid orangered;
+}
