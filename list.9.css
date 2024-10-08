@@ -21,3 +21,25 @@
 	border: 2px dotted blue;
     display: inline-block;
 }
+#rrr1{
+    width: 480px;
+    border: 1px solid red
+}
+#rrr2{
+    height: 100px;
+	width: 100px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+#rrr3{
+    height: 100px;
+	width: 200px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+#rrr4{
+    height: 100px;
+	width: 300px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
