@@ -146,3 +146,21 @@
 	height: 50px;
 	border: 1px solid green;
 }
+.aaa{
+	display: flex;
+	border:1px solid rgb(0, 145, 255)
+}
+.aaa1{
+	width: 130px;
+	height: 60px;
+	border: 1px solid green;
+}
+.aaa2{
+	display: inline-flex;
+	border: 1px solid red;
+}
+.aaa3{
+	width: 130px;
+	height: 60px;
+	border: 1px solid green;
+}
