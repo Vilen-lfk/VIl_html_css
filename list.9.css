@@ -164,3 +164,23 @@
 	height: 60px;
 	border: 1px solid green;
 }
+.aaa4{
+	display: inline-flex;
+	padding: 20px;
+	border: 1px solid rgb(0, 255, 225);
+}
+.aaa5{
+	width: 130px;
+	height: 60px;
+	border: 1px dotted rgb(255, 0, 234)
+}
+.aaa6{
+	display: inline-flex;
+	border: 1px solid rgba(0, 255, 132, 0.432)
+}
+.aaa7{
+	margin: 30px;
+	width: 130px;
+	height: 60px;
+	border: 2px solid rgb(0, 13, 128)
+}
