@@ -20,3 +20,25 @@
 	height: 60px;
 	border: 2px solid #00805e
 }
+.xxx5{
+    height: 200px;
+	display: flex;
+    justify-content: space-around;
+	border: 1px solid rgb(68, 0, 255)
+}
+.xxx6 {
+	width: 130px;
+	height: 60px;
+	border: 2px solid #00805e
+}
+.xxx7{
+    height: 200px;
+	display: flex;
+    justify-content: space-evenly;
+	border: 1px solid rgb(68, 0, 255)
+}
+.xxx8 {
+	width: 130px;
+	height: 60px;
+	border: 2px solid #00805e
+}
