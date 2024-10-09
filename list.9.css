@@ -66,3 +66,39 @@
 	width: 200px;
 	border: 1px solid orangered;
 }
+.nnn3{
+    text-align: center;
+    padding: 10px 0;
+    border: 1px solid red
+}
+.nnn4{
+    border: 1px solid green;
+}
+.parent {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+}
+.parent1 {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.parent2 {
+	text-align: right;
+	padding-right: 10px ;
+	border: 1px solid red;
+}
+.child1 {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child2 {
+	display: block;
+	padding: 10px 20px;
+	border: 1px solid green;
+}
