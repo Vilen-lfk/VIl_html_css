@@ -1,6 +1,6 @@
 #elem {
 	position: absolute;
-	top: 300px;
+	top: 150px;
 	left: 300px;
 	
 	width: 100px;
@@ -18,7 +18,7 @@
 }
 #elem2 {
 	position: absolute;
-	top: 450px;
+	top: 150px;
 	left: 450px;
 	
 	width: 100px;
