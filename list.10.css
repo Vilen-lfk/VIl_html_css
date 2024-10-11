@@ -93,3 +93,42 @@
 #vil7 img{
 	float: right;
 }
+#vil8{
+	width: 400px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#vil9 img {
+	float: left;
+	opacity: 0.5;
+}
+#vil10 {
+	width: 400px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#vil10 p {
+	margin-left: 30px;
+	border: 1px solid green;
+}
+#vil10 img {
+	float: left;
+	opacity: 0.5;
+}
+#vvv1 {
+	width: 700px;
+	border: 1px solid blue;
+	text-align: justify;
+}
+#vvv1 p {
+	margin-left: 30px;
+}
+#vvv2 {
+	float: left;
+	margin-right: 30px;
+	opacity: 0.5;
+}
+#vvv3{
+	float: right;
+	margin-right: 30px;
+}
