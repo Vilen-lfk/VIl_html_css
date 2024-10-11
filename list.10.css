@@ -83,3 +83,13 @@
 	height: 100px;
 	background: #7e89eb;
 }
+#vil5{
+	width: 600px;
+	text-align: justify;
+}
+#vil6 img{
+	float: left;
+}
+#vil7 img{
+	float: right;
+}
