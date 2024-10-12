@@ -1,0 +1,19 @@
+
+.ppp {
+	width: 1000px;
+	border: 1px solid black;
+	text-align: justify;
+}
+.ccc {
+	float: right;
+	width: 100px;
+	height: 70px;
+    margin-top: 20px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	border: 1px solid green;
+}
+
+.cll {
+	clear: both;
+}
