@@ -35,7 +35,7 @@
 }
 .ppp2{
     display: flex;
-	flex-direction: column;
+	flex-direction: column-reverse;
 	width: 300px;
 	height: 200px;
 	border: 1px solid red;
@@ -48,3 +48,80 @@
 /*Значение row-reverse в свойстве flex-direction 
 позволяет выстраивать блоки в ряд, прижимая их к 
 правому краю.*/
+/*column, то элементы выстроятся в колонку*/
+
+.ppp3	{
+	display: flex;
+	flex-direction: row; /* главная 
+		ось слева направо */ 
+	justify-content: flex-end; /* блоки к 
+    концу главной оси */
+    width: 300px;
+    height: 200px; 
+    border: 1px solid red;
+}
+.ccc3{
+    width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+.ppp4	{
+	display: flex;
+	flex-direction: column; /* главная 
+    ось сверху вниз */  
+	justify-content: flex-end; /* блоки к 
+    концу главной оси */
+    width: 300px;
+    height: 200px; 
+    border: 1px solid red;
+}
+.ccc4{
+    width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+.ppp5	{
+	display: flex;
+	flex-direction: row-reverse; /* главная 
+		ось справа налево */ 
+	justify-content: flex-start; /* блоки к 
+		началу главной оси */
+    width: 300px;
+    height: 200px; 
+    border: 1px solid red;
+}
+.ccc5{
+    width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+.ppp6	{
+	display: flex;
+	flex-direction: row-reverse; /* главная 
+		ось справа налево */ 
+	justify-content: flex-end; /* блоки к 
+		концу главной оси */
+    width: 300px;
+    height: 200px; 
+    border: 1px solid red;
+}
+.ccc6{
+    width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+.ppp7	{
+	display: flex;
+	flex-direction: column-reverse; /* главная 
+		ось снизу вверх */ 
+	justify-content: flex-end; /* блоки к 
+		концу главной оси */ 
+    width: 300px;
+    height: 200px; 
+    border: 1px solid red;
+}
+.ccc7{
+    width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
