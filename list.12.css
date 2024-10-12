@@ -17,3 +17,19 @@
 .cll {
 	clear: both;
 }
+.ppp1 {
+	width: 700px;
+    height: 500px;
+	border: 1px solid red;
+	text-align: justify;
+}
+.ccc1 {
+	float: left;
+	width: 100px;
+	height: 70px;
+	border: 1px solid green;
+}
+
+.cll1 {
+	clear: both;
+}
