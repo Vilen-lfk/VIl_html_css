@@ -111,3 +111,51 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#bla6 {
+	display: grid;
+	grid-template: 2fr 1fr 1fr / 1fr 2fr 2fr; 
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 400px;
+}
+#bla6 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#bla7 {
+	display: grid;
+	grid-template: 1fr 2fr / 1fr 2fr 2fr 4fr;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 400px;
+}
+#bla7 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#bla8 {
+	display: grid;
+	grid-template: 1fr 1fr 2fr 3fr / 1fr 2fr 3fr;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 300px;
+}
+#bla8 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#bla9 {
+	display: grid;
+	grid-template: 2fr 1fr / 1fr 1fr 2fr 3fr 3fr;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 300px;
+}
+#bla9 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
