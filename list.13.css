@@ -87,3 +87,27 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#bla4 {
+	display: grid;
+	grid-template-columns:repeat(3, 1fr);
+	grid-template-rows: 100px 150px 200px;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 800px;
+}
+#bla4 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#bla5 {
+	display: grid;
+	grid-template-columns:repeat(3, 1fr);
+	grid-template-rows: 1fr;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 800px;
+}
+#bla5 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
