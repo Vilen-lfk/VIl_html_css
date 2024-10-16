@@ -26,3 +26,31 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#parent2 {
+	display: grid;
+	gap: 10px;
+	grid-template: 1fr 1fr 1fr / 1fr 
+		1fr 1fr; 
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent2 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#parent3 {
+	display: grid;
+	gap: 10px 5%;
+	grid-template: 1fr 1fr 1fr / 1fr 
+		1fr 1fr; 
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent3 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
