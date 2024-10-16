@@ -54,3 +54,39 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#parent4{
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid #696989;
+    width: 600px;
+}
+#parent4 > div{
+    height: 80px;
+    padding: 10px;
+	border: 1px solid #696989;
+}
+#parent5{
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: repeat(2, 1fr) 2fr 3fr;
+    border: 2px solid #696989;
+    width: 600px;
+}
+#parent5 > div{
+    height: 100px;
+    padding: 10px;
+	border: 1px solid #696989;
+}
+#parent6{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+}
+#parent6 > div {
+	height: 80px;
+	padding: 10px;
+	border: 1px solid #696989;
+}
