@@ -12,3 +12,17 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#parent1 {
+	display: grid;
+	row-gap: 25%;
+	/*grid-template: 1fr 1fr 1fr / 1fr 
+		1fr 1fr;*/ 
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 400px;
+}
+#parent1 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
