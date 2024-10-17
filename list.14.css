@@ -90,3 +90,50 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#menu {
+	display: flex;
+}
+#menu a {
+	margin-right: 5px;
+	padding: 20px;
+	font: 15px Arial;
+	text-decoration: none;/*подчеркивание. Значение text-decoration: none убирает подчёркивание текста.*/
+	color: white;
+	/*border: 1px solid #1437AD;*/
+	background-color: rgb(79, 168, 106);
+}
+#menu a:hover {
+	color: rgb(79, 168, 106);
+	border: 1px solid rgb(79, 168, 106);
+	background-color: #F5F6FA;
+}
+#menu a:hover, #menu a.active {
+	color: rgb(79, 168, 106);
+	border: 1px solid rgb(79, 168, 106);;
+	background-color: #F5F6FA;
+}
+#menu1 {
+	display: flex;
+	align-items: stretch;
+	flex-direction: column;
+}
+#menu1 a {
+	width: 250px;
+	margin-top: 10px;
+	padding: 15px;
+	font: 15px Arial;
+	text-decoration: none;/*подчеркивание. Значение text-decoration: none убирает подчёркивание текста.*/
+	color: white;
+	/*border: 1px solid #1437AD;*/
+	background-color: rgb(79, 168, 106);
+}
+#menu1 a:hover {
+	color: rgb(79, 168, 106);
+	border: 1px solid rgb(79, 168, 106);
+	background-color: #F5F6FA;
+}
+#menu1 a:hover, #menu1 a.active1 {
+	color: rgb(79, 168, 106);
+	border: 1px solid rgb(79, 168, 106);;
+	background-color: #F5F6FA;
+}
