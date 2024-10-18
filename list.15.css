@@ -13,7 +13,7 @@
 	width: 60px;
     height: 10px;
 	/*margin-right: 10px;*/
-	padding: 10px 25px;
+	padding: 15px 12px;
 	font: 15px Arial;
 	text-decoration: none;/*подчеркивание. Значение text-decoration: none убирает подчёркивание текста.*/
 	color: white;
@@ -42,3 +42,68 @@
 	font: 17px Times new roman;
 	text-align: justify;
 }
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.center2 {
+	width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+}
+.wrapper.line1 {
+	text-align: center;
+	background-color: #008040;
+	color: white;
+}
+.wrapper.line1 h1 {
+	font-family: "Arial";
+	margin: 5px;
+}
+.wrapper.line1 h2 {
+	font-family: "Arial";
+	margin: 5px;
+	font-weight: normal;
+}
+.wrapper.line2 {
+	text-align: center;
+	background-color: rgb(180, 0, 0);
+	color: white;
+}
+.wrapper2 {
+	margin-bottom: 30px;
+}
+.wrapper2 h1 {
+	text-align: center;
+	margin: 0;
+	font-family: "Arial";
+}
+.wrapper.line2 h1 {
+	margin: 8px;
+	font-family: "Arial";
+}
+.wrapper.line2 h3 {
+	margin: 8px;
+	font-family: "Arial";
+	font-weight: normal;
+}
+.wrapper2 p {
+	font: 16px/1.4 Arial;
+	text-align: justify;
+}
+.center2 ol {
+	font: 16px/1.4 Arial;
+	text-align: justify;
+}
+.wrapper.line3{
+	height: 100px;
+	text-align: center;
+	background-color: orange;
+	color: rgb(254, 254, 254);
+	font: 15px "Arial";
+	padding: 10px;
+    margin: 0 auto;
+}
+
