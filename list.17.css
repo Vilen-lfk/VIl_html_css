@@ -1,0 +1,83 @@
+#final{
+    text-align: center;
+    font: 20px "Arial";
+    color:rgb(164, 164, 164);
+}
+/*--------------------------------*/
+* {
+	box-sizing: border-box;
+}
+body {
+	background-attachment: fixed;
+	background-image: url("img/gg.jpg");
+}
+.wrapper {
+	width: 1100px;
+	margin: 30px auto;
+	/*border: 1px solid rgb(164, 164, 164);*/
+}
+/*header {
+	/*border: 1px solid rgb(164, 164, 164);
+}*/
+.block {
+    text-align: center;
+	margin: 20px 0 50px 380px;
+}
+.sitename {
+	margin-bottom: 10px;
+	font: 20px Arial;
+}
+nav {
+	display: flex;
+	width: 600px;
+	/*border: 1px solid rgb(164, 164, 164)*/;
+}
+nav a {
+	padding: 10px;
+	color: rgb(164, 164, 164);
+	text-decoration: none;
+	font: 15px Arial;
+}
+nav a:hover, nav a.active {
+	color: rgb(121, 121, 121);
+	text-decoration: underline;
+}
+.container {
+	display: flex;
+}
+main {
+	width: 660px;
+	padding: 20px;
+	/*border: 1px solid rgb(164, 164, 164)*/;
+}
+.left {
+	width: 400px;
+	margin-right: 0;
+	padding: 0;
+	/*border: 1px solid rgb(164, 164, 164)*/;
+}
+.right {
+	width: 200px;
+	margin-left: 20px;
+	padding: 20px;
+	/*border: 1px solid rgb(164, 164, 164)*/;
+    color: rgb(164, 164, 164);
+}
+.right img {
+	float: left;
+}
+footer {
+	padding: 30px 0;
+	/*border: 1px solid rgb(164, 164, 164)*/;
+	text-align: right;
+    color:rgb(164, 164, 164);
+}
+main h1 {
+	font: 20px "Times New Roman";
+}
+main p {
+	margin: 10px 0;
+	text-align: justify;
+	font: 15px Arial;
+    color: rgb(164, 164, 164);
+}
